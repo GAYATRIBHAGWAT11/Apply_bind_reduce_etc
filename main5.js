@@ -12,6 +12,6 @@ person['age']='60';
 console.log(person);
 
 
-// Object.defineProprty()  =>
+
 
 
